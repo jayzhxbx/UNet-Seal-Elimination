@@ -3,7 +3,9 @@ UNet 实现文档印章消除
 
 # Requirement
 pytorch==1.5
+
 opencv-python 4.2
+
 numpy
 
 # Use
